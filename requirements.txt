@@ -1,0 +1,3 @@
+fastapi==0.100.0
+uvicorn==0.22.0
+scikit-learn==1.2.2  # if your model.pkl was created with scikit-learn
